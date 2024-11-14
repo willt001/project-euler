@@ -1,0 +1,1 @@
+My library of solutions for the first 100 project euler problems.
