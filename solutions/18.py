@@ -96,7 +96,7 @@ def modified_dijkstras_algorithm(fpath):
     
 if __name__ == "__main__":
     print(
-        bottom_up_dynamic_programming('51to100/problem67.txt'),
-        top_down_memoization('51to100/problem67.txt'),
-        modified_dijkstras_algorithm('51to100/problem67.txt')
+        bottom_up_dynamic_programming('solutions/problem67.txt'),
+        top_down_memoization('solutions/problem67.txt'),
+        modified_dijkstras_algorithm('solutions/problem67.txt')
     )

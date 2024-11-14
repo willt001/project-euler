@@ -1,4 +1,4 @@
-with open('51to100/problem67.txt') as num_file:
+with open('solutions/problem67.txt') as num_file:
     f = num_file.read()
     triangle = []
     for line in f.split('\n'):

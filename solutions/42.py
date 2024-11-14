@@ -1,4 +1,4 @@
-with open('1to50/42.txt') as my_file:
+with open('solutions/42.txt') as my_file:
     words = my_file.read().replace('\n', '')
     words = words.replace('"', '')
     words = words.split(',')

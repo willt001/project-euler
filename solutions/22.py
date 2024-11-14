@@ -1,4 +1,4 @@
-with open('22.txt') as my_file:
+with open('solutions/22.txt') as my_file:
     names = my_file.read().replace('\n', '')
     names = names.replace('"', '')
     names = names.split(',')
